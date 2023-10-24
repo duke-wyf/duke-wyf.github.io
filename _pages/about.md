@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently a senior student at the Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class), Tsinghua University.
+I am currently a senior student at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. My research interests lie broadly in theoretical computer science, especially those related to the design and analysis of algorithms. 
