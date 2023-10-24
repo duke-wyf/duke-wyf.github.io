@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a junior student at the Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class), Tsinghua University.
+I am currently a senior student at the Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class), Tsinghua University.
