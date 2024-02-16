@@ -15,8 +15,8 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 
 ## Recent Manuscripts
 
-- **Better Decremental and Fully Dynamic Sensitivity Oracles for Subgraph Connectivity** \[[arxiv](https://arxiv.org/abs/2402.09150)\] <br>
-  Yaowei Long and Yunfan Wang
+**[Better Decremental and Fully Dynamic Sensitivity Oracles for Subgraph Connectivity](https://arxiv.org/abs/2402.09150)**  
+with Yaowei Long
 
 ## Conference Papers
 
