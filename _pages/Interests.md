@@ -15,7 +15,7 @@ I enjoy various forms of travel, and I will occasionally update my travel photos
 ——The beauty of the journey is found not in the destination, but in the scenery along the way.
 
 <h2>Music</h2>
-I like many genres of music, and my favorite American female singer is Taylor Swift.
+I like many genres of music, and my favorite American singer is Taylor Swift.
 
 ——Life was never worse, but never better.
 
