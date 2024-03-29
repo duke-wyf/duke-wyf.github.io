@@ -1,12 +1,11 @@
 ---
 permalink: /interests/
 title: "Interests"
-excerpt: "Interests"
 author_profile: true
-redirect_from: 
-  - /interests.html
-  - /interests/
 ---
+
+
+
 
 In addition to my studies and work, I also have the following hobbies.
 
