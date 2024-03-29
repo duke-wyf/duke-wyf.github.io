@@ -1,13 +1,13 @@
 ---
 permalink: /interests/
-title: "Interests and Hobbies"
+title: "Interests"
 author_profile: true
 ---
 
 
 
 
-In addition to my studies and work, I also have the following interests and hobbies.
+In addition to my studies and work, I also have the following interests.
 
 <h2>Travel</h2>
 I enjoy various forms of travel, and I will occasionally update my travel photos in my free time.
