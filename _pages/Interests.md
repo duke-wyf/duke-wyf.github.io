@@ -1,6 +1,6 @@
 ---
 permalink: /interests/
-title: "Interests&Hobbies"
+title: "Interests and Hobbies"
 author_profile: true
 ---
 
