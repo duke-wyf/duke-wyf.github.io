@@ -17,7 +17,6 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 
 - **[Deterministic Edge Connectivity using Subquadratic Cut Queries]**  
   with Aditya Anand and Thatchaphol Saranurak 
-  *ICALP 2024*
   
 ## Conference Papers
 
