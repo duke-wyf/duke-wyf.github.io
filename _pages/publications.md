@@ -15,7 +15,7 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 
 ## Recent Manuscripts
 
-- **[Deterministic Edge Connectivity using Subquadratic Cut Queries]**  
+- **Deterministic Edge Connectivity using Subquadratic Cut Queries**  
   with Aditya Anand and Thatchaphol Saranurak 
   
 ## Conference Papers
