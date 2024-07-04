@@ -15,6 +15,10 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 
 ## Recent Manuscripts
 
+- **[Deterministic Edge Connectivity using Subquadratic Cut Queries]**  
+  with Aditya Anand and Thatchaphol Saranurak 
+  *ICALP 2024*
+  
 ## Conference Papers
 
 - **[Better Decremental and Fully Dynamic Sensitivity Oracles for Subgraph Connectivity](https://arxiv.org/abs/2402.09150)**  
