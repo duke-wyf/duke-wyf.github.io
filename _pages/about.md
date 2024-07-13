@@ -16,7 +16,7 @@ I had a wonderful research visit at UMich in spring 2023, and I was fortunate to
 <h1>News</h1>
 Recently, I am interested in the following concrete directions:
 
-[Maximum Flow by Augmenting Paths in n^{2+o(1) Time](https://arxiv.org/pdf/2406.03648)
+[Maximum Flow by Augmenting Paths in n^{2+o(1)} Time](https://arxiv.org/pdf/2406.03648)
 
 [Faster Min-Plus Product for Monotone Instances](https://arxiv.org/pdf/2204.04500)
 
