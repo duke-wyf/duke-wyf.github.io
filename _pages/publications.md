@@ -15,14 +15,13 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
 
 ## Recent Manuscripts
 
-- **Deterministic Edge Connectivity and Max Flow using Subquadratic 
-  Cut Queries**  
-  with Aditya Anand and Thatchaphol Saranurak
+- **Deterministic Edge Connectivity and Max Flow using Subquadratic Cut Queries**<br>
+  with Aditya Anand and Thatchaphol Saranurak <br>
   *In submission*
   
 ## Conference Papers
 
 - **[Better Decremental and Fully Dynamic Sensitivity Oracles for Subgraph Connectivity](https://arxiv.org/abs/2402.09150)**  \[[slides](/files/ICALP2024.A14.2.pdf)\]<br>
-  with Yaowei Long  
+  with Yaowei Long <br>
   *ICALP 2024*  
   
