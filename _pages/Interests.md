@@ -15,7 +15,7 @@ I enjoy various forms of travel and occasionally update my travel photos on Xiao
 ——The beauty of the journey is found not in the destination, but in the scenery along the way.
 
 <h2>Music</h2>
-I like many genres of music, and my favorite American singer is Taylor Swift.
+I like many genres of music, including classical and pop music. For example, I like Beethoven; my favorite piece by him is 'Schicksalslied.' I also enjoy 'The Four Seasons' by Antonio Vivaldi, and my favorite American singer is Taylor Swift.
 
 ——Life was never worse, but never better.
 
