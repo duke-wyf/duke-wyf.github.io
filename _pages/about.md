@@ -24,9 +24,3 @@ Recently, I am interested in the following concrete directions:
 
 3. Learn some classic tools in graph theory
 [Spetral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
-
-One more thing!
-Graph Isomorphism (GI) is a problem that has puzzled computer scientists for a long time. I remember learning about this problem in a graph theory book when I was in high school. GI is one of the few problems that lie between P and NP, with P ⊆ GI ⊆ NP. I believe that this problem is very helpful for our research on symmetry in graph theory. I believe that with the development of mathematics and computer science, this problem no longer seems as difficult as it did 20 years ago. This is one of the issues I am most concerned about right now, and I hope that through this problem, we can gain insights into the relationship between P and NP.
-[Graph Isomorphism in Quasipolynomial Time](https://arxiv.org/pdf/1512.03547)
-
-
