@@ -20,4 +20,6 @@ Recently, I am interested in the following concrete directions:
 
 [Faster Min-Plus Product for Monotone Instances](https://arxiv.org/pdf/2204.04500)
 
+[Graph Isomorphism in Quasipolynomial Time](https://arxiv.org/pdf/1512.03547)
+
 [Spetral and Algebraic Graph Theory](http://cs-www.cs.yale.edu/homes/spielman/sagt/sagt.pdf)
