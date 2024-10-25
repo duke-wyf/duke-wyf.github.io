@@ -19,7 +19,7 @@ Unless stated otherwise, author names are in **alphabetical order**. Listed in r
   
 ## Conference Papers
 
-- **Deterministic Edge Connectivity and Max Flow using Subquadratic Cut Queries**<br>
+- **[Deterministic Edge Connectivity and Max Flow using Subquadratic Cut Queries](https://arxiv.org/abs/2410.18704)**<br>
   with Aditya Anand and Thatchaphol Saranurak <br>
   *SODA 2025*
 
