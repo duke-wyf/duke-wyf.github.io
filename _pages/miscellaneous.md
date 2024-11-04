@@ -1,3 +1,9 @@
+---
+permalink: /miscellaneous/
+title: "Miscellaneous"
+author_profile: true
+---
+
 In addition to my studies and work, I also have the following interests.
 
 <h2>Travel</h2>
