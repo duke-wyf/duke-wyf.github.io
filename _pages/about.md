@@ -13,5 +13,5 @@ I am currently a senior student at the [Institute for Interdisciplinary Informat
 
 
 <h1>One more thing</h1>
-"We are fortunate to live in an era of rapid development in computer science, where we can contribute our wisdom to its growth." The field of computer science is advancing at an astonishing pace, and research just 20 years ago has now become textbook material. This is why I firmly believe in the importance of lifelong learning, continuous progress, and keeping an open mind. Only through constant learning and maintaining curiosity can we continue to move forward in this fast-evolving field and contribute our own part to its growth.
+"We are fortunate to live in an era of rapid development in computer science, where we can contribute our wisdom to its growth." The field of computer science is advancing at an astonishing pace, and research just 10 years ago has now become textbook material. This is why I firmly believe in the importance of lifelong learning, continuous progress, and keeping an open mind. Only through constant learning and maintaining curiosity can we continue to move forward in this fast-evolving field and contribute our own part to its growth.
 
