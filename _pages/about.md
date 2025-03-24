@@ -10,6 +10,8 @@ redirect_from:
 
 I am currently a senior student at the [Institute for Interdisciplinary Information Sciences (IIIS, aka. Yao Class)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. where my research interests broadly focus on theoretical computer science, particularly in dynamic graph algorithms and combinatorial optimization. I had a wonderful research visit at the University of Michigan in the spring of 2023, where I was fortunate to be advised by [Thatchaphol Saranurak](https://sites.google.com/site/thsaranurak/). I am also grateful to my undergraduate advisor, [Ran Duan](https://iiis.tsinghua.edu.cn/duanr/), for his guidance and support throughout my academic journey. If you have any interesting questions or ideas related to my research areas, feel free to reach out anytime!
 
+My email is yunfan-w20 at mails dot tsinghua dot edu dot cn
+
 
 
 <h1>One more thing</h1>
