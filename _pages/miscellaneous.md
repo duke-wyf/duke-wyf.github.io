@@ -14,5 +14,3 @@ I enjoy various forms of travel and occasionally update my travel photos on Xiao
 <h2>Sport</h2>
 My favorite sport is soccer, even though my soccer skills are not very high.
 
-——Football is round, and anything is possible.
-
